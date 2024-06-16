@@ -5,3 +5,8 @@ This repo is a starter for a simple saas that only accept one off payment s with
 - Create product in stripe
 - create price from product
 - copy price_id and add to env under PRICE_ID
+
+## TODO 
+- [ ] Sync user data to stripe when user model is updated
+- [ ] Listen for product changes and update database
+ 
